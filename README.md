@@ -13,8 +13,8 @@ This repository is my course work 1 portfolio. Work will be uploaded with it's o
 
 | Task | Branch | Description |
 |------|--------|-------------|
-| 1 | `security-tool` |  |
-| 2 | `security-event-logger` |A menu focused python program that requires a login with 3 login attempts before account is frozen. then offers a security event counter that records correct and failed password entries then it goes on to calculate a percentage and if inccorect and has a value above 15 percent it raises an alert along with a brute force simulator with a mlimited number of guesses and a repetable login authentication checker|
+| 1 | `security-tool` | A menu focused python program that requires a login with 3 login attempts before account is frozen. then offers a security event counter that records correct and failed password entries then it goes on to calculate a percentage and if inccorect and has a value above 15 percent it raises an alert along with a brute force simulator with a mlimited number of guesses and a repetable login authentication checker |
+| 2 | `security-event-logger` |  |
 | 3 | `ip-address-validator` |  |
 | 4 | `security-incident-manager` |  |
 | 5 | `cyber-security-utilities` |  |
@@ -32,4 +32,4 @@ Replace `security-tool` with any branch name from the table
 ## License
 This project is licensed under the MIT license. see the `LICENSE` file
 
-Classwork progress
+
