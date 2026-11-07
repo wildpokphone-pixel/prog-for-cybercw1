@@ -40,3 +40,10 @@ password = "secure#2026"
 
 
 
+## example output
+```
+SECURITY EVENT LOG
+==================
+username: admin
+password: wrongpass
+event id :4821

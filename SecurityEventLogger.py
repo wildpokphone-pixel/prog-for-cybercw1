@@ -22,7 +22,6 @@ def log_attempt(name: str, ip: str, worked: bool) -> None:
     time_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     print(f"event ID: {log_id}")
-    print(f"username: {name}")
     print(f"ip address: {ip}")
     print(f"event: {result}")
     print(f"timestamp: {time_now}")
