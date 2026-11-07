@@ -147,7 +147,7 @@ The alert only appears when more than 50% of the entries are wrong so with 10 at
 
 **B2: menu choice ABC**
 
-![B2](Screenshots/B2_invalid_text.png)
+![B2](Screenshots/B2_Invalid_text.png)
 
 **B3: nothing typed**
 
