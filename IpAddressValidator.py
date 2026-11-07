@@ -12,7 +12,7 @@ def check_ip(ip: str) -> bool:
 
     for piece in pieces:
         #every pirece has to be plain digits this alos catches empty pieces letters and negative numbers
-        if not piece.isdigit():
+        if not(piece.isascii() and piece.isdigit()):
             return False
 
         # no piece can be bigger than 255
