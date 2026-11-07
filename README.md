@@ -147,15 +147,15 @@ The alert only appears when more than 50% of the entries are wrong so with 10 at
 
 **B2: menu choice ABC**
 
-![B2](screenshots/B2_Invalid_text.png)
+![B2](Screenshots/B2_invalid_text.png)
 
 **B3: nothing typed**
 
-![B3](screenshots/B3_empty_choices.png)
+![B3](Screenshots/B3_empty_choices.png)
 
 **B4: Spaces around the choice**
 
-![B4](screenshots/B4_spaces_choice.png)
+![B4](Screenshots/B4_spaces_choice.png)
 
 **B5: Exit with 4**
 
@@ -169,11 +169,11 @@ The alert only appears when more than 50% of the entries are wrong so with 10 at
 
 **C2: 8 correct 2 wrong**
 
-![C2](screenshots/C2_eight_correct.png)
+![C2](Screenshots/C2_eight_correct.png)
 
 **C3: 5 correct 5 wrong**
 
-![C3](screenshots/C3_boundary_no_alert.png)
+![C3](Screenshots/C3_boundary_no_alert.png)
 
 **C4: 4 correct 6 wrong**
 
@@ -195,20 +195,20 @@ The alert only appears when more than 50% of the entries are wrong so with 10 at
 
 **D3: 5 wrong guesses**
 
-![D3](screenshots/D3_tries_run_out.png)
+![D3](Screenshots/D3_tries_run_out.png)
 
 ### E. login from the menu 
 
 **E1 Correct details** 
 
-![E1](screenshots/E1_menu_login.png)
+![E1](Screenshots/E1_menu_login.png)
 
 **E2 Wrong details 3 times**
 
-![E2](screenshots/E2_menu_frozen.png)
+![E2](Screenshots/E2_menu_frozen.png)
 
 ### F. interruption
 
 **F1: ctrl+c at a prompt**
 
-![F1](screenshots/F1_ctrl_c.png)
+![F1](Screenshots/F1_ctrl_c.png)
