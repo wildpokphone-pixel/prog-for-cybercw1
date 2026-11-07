@@ -87,7 +87,7 @@ invalid ip address
 ![A4](Screenshots/A4_spaces.png)
 
 **B1: part above 255**
-s
+
 ![B1](Screenshots/B1_above_255.png)
 
 **B2: three parts**
