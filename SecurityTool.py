@@ -124,7 +124,7 @@ def main():
 
 #only run main() when this file is run directly, not imported
 if __name__ == "__main__":
-    # tru except stops a crash if the user presses cntrl+c or ends the input early
+    # try except stops a crash if the user presses cntrl+c or ends the input early
     try:
         main()
     except (KeyboardInterrupt, EOFError):
