@@ -72,52 +72,52 @@ invalid ip address
 
 **A1: normal address**
 
-![A1](screenshots/A1_normal_address.png)
+![A1](Screenshots/A1_normal_address.png)
 
 **A2: lowest address**
 
-![A2](screenshots/A2_lowest_address.png)
+![A2](Screenshots/A2_lowest_address.png)
 
 **A3: highest address**
 
-![A3](screenshots/A3_highest_address.png)
+![A3](Screenshots/A3_highest_address.png)
 
 **A4: spaces around the address**
 
-![A4](screenshots/A4_spaces.png)
+![A4](Screenshots/A4_spaces.png)
 
 **B1: part above 255**
-
-![B1](screenshots/B1_above_255.png)
+s
+![B1](Screenshots/B1_above_255.png)
 
 **B2: three parts**
 
-![B2](screenshots/B2_three_parts.png)
+![B2](Screenshots/B2_three_parts.png)
 
 **B3: fives parts**
 
-![B3](screenshots/B3_five_parts.png)
+![B3](Screenshots/B3_five_parts.png)
 
 **B4: empty part**
 
-![B4](screenshots/B4_empty_part.png)
+![B4](Screenshots/B4_empty_part.png)
 
 **B5: letters**
 
-![B5](screenshots/B5_letters.png)
+![B5](Screenshots/B5_letters.png)
 
 **B6: negative number**
 
-![B6](screenshots/B6_negative_number.png)
+![B6](Screenshots/B6_negative_number.png)
 
 **B7: unusual character**
 
-![B7](screenshots/B7_unusual_character.png)
+![B7](Screenshots/B7_unusual_character.png)
 
 **B8: nothing typed**
 
-![B8](screenshots/B8_nothing_typed.png)
+![B8](Screenshots/B8_nothing_typed.png)
 
 **C1: ctrl+c**
 
-![C1](screenshots/C1_ctrl_c.png)
+![C1](Screenshots/C1_ctrl_c.png)
