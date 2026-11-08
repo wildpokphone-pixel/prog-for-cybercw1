@@ -102,7 +102,7 @@ the suggested password changes every time
 
 **B4: empty input**
 
-![B4](screenshots/B4_empty_input.png)
+![B4](Screenshots/B4_empty_input.png)
 
 **C1: genreated passwords differ each run**
 
