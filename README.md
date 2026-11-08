@@ -78,8 +78,8 @@ Total key-value pairs: 4
 
 **A1 - A5: full normal run** 
 
-![normalrun](screenshots/normal_run.png)
+![normalrun](Screenshots/normal_run.png)
 
 **B1: removing a field that does not exist**
 
-![B1](screenshots/B1_missing_field.png)
+![B1](Screenshots/B1_missing_field.png)
