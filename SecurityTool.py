@@ -1,4 +1,4 @@
-# Security Event Logger
+# Security Tool
 
 
 def get_percentage(part: int, total: int) ->float:
